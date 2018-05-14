@@ -1,0 +1,5 @@
+*.pyc
+venv/*
+dev-test*.yml
+dev-awx.py
+secret_keys
